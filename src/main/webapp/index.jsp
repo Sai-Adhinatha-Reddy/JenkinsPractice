@@ -9,7 +9,6 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: orange; font-size: 60px;" align="center">I have successfully done deployment</h1>
 	<h1 style="color: grey; font-size: 80px;" align="center">Why I am unable to deploy the project which don't have POM file</h1>
-	<h1 style="color: grey; font-size: 80px;" align="center">I am integrating git webhooks with jenkins</h1>
 	
 	
 </body>
